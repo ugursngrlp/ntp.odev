@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Projec2\Ev.Lib\bin\Debug\netstandard2.0\Ev.Lib.deps.json
+C:\Users\HP\source\repos\Projec2\Ev.Lib\bin\Debug\netstandard2.0\Ev.Lib.dll
+C:\Users\HP\source\repos\Projec2\Ev.Lib\bin\Debug\netstandard2.0\Ev.Lib.pdb
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.AssemblyInfo.cs
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.dll
+C:\Users\HP\source\repos\Projec2\Ev.Lib\obj\Debug\netstandard2.0\Ev.Lib.pdb

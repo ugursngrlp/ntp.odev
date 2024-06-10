@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projec2/1.0.0": {
+        "dependencies": {
+          "Ev.Lib": "1.0.0"
+        },
+        "runtime": {
+          "Projec2.dll": {}
+        }
+      },
+      "Ev.Lib/1.0.0": {
+        "runtime": {
+          "Ev.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projec2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ev.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

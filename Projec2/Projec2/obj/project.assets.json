@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Ev.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ev.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ev.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ev.Lib/1.0.0": {
+      "type": "project",
+      "path": "../Ev.Lib/Ev.Lib.csproj",
+      "msbuildProject": "../Ev.Lib/Ev.Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Ev.Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ugurs\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ugurs\\source\\repos\\OOPProje\\Projec2\\Projec2\\Projec2.csproj",
+      "projectName": "Projec2",
+      "projectPath": "C:\\Users\\ugurs\\source\\repos\\OOPProje\\Projec2\\Projec2\\Projec2.csproj",
+      "packagesPath": "C:\\Users\\ugurs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ugurs\\source\\repos\\OOPProje\\Projec2\\Projec2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ugurs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\ugurs\\source\\repos\\OOPProje\\Projec2\\Ev.Lib\\Ev.Lib.csproj": {
+              "projectPath": "C:\\Users\\ugurs\\source\\repos\\OOPProje\\Projec2\\Ev.Lib\\Ev.Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
